@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="Gradiente_sem_nome" data-name="Gradiente sem nome" x1="32.9629727" y1="483.9276171" x2="32.9629727" y2="470.7946215" gradientTransform="translate(-19.7857223 -450.7142711) scale(.9642857)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#4d4d4d"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_2" data-name="Gradiente sem nome 2" x1="12.0019686" y1="470.0606623" x2="12.0019686" y2="456.9767647" gradientTransform="translate(0 -454)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#4d4d4d"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_3" data-name="Gradiente sem nome 3" x1="32.9649453" y1="483.9296036" x2="32.9649453" y2="470.7907925" gradientTransform="translate(-19.7857223 -450.7142711) scale(.9642857)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#4d4d4d"/>
+    </linearGradient>
+  </defs>
+  <circle id="path559" cx="12" cy="12" r="8" fill="#fff" stroke-width="0"/>
+  <g id="g186">
+    <circle id="circle137-6" cx="12" cy="12" r="6" fill="#fff" stroke="url(#Gradiente_sem_nome)" stroke-width="2.5"/>
+    <path id="path543-7" d="M16.5492153,16.5492153L7.4547219,7.4319797" fill="#fff" stroke="url(#Gradiente_sem_nome_2)" stroke-width="2"/>
+    <path id="path191" d="M16.3867455,16.3867397L7.6170588,7.59512" fill="#fff" stroke="url(#Gradiente_sem_nome_3)" stroke-width="2.6666"/>
+  </g>
+</svg>
