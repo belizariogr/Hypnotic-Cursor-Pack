@@ -32,8 +32,8 @@ location.cur
 person.cur
 
 [Strings]
-CUR_DIR       = "Windows\Cursors\Hypnotic2"
-SCHEME_NAME   = "Hypnotic 2"
+CUR_DIR       = "Windows\Cursors\Hypnotic"
+SCHEME_NAME   = "Hypnotic"
 pointer       = "default.cur"
 help          = "help.cur"
 work          = "progress.ani"
